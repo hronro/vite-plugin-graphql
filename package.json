@@ -1,0 +1,27 @@
+{
+  "name": "vite-plugin-graphql",
+  "version": "0.1.0",
+  "description": "a Vite plugin for loading GraphQL files",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/foisonocean/vite-plugin-graphql.git"
+  },
+  "keywords": [
+    "vite",
+    "graphql"
+  ],
+  "author": "foisonocean <hronro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foisonocean/vite-plugin-graphql/issues"
+  },
+  "homepage": "https://github.com/foisonocean/vite-plugin-graphql",
+  "dependencies": {
+    "graphql-tag": "^2.10.4"
+  },
+  "peerDependencies": {
+    "vite": "^1.0.0-beta.11 || ^1.0.0"
+  }
+}

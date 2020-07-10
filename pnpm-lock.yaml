@@ -1,0 +1,12 @@
+dependencies:
+  graphql-tag: 2.10.4
+lockfileVersion: 5.1
+packages:
+  /graphql-tag/2.10.4:
+    dev: false
+    peerDependencies:
+      graphql: ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0
+    resolution:
+      integrity: sha512-O7vG5BT3w6Sotc26ybcvLKNTdfr4GfsIVMD+LdYqXCeJIYPRyp8BIsDOUtxw7S1PYvRw5vH3278J2EDezR6mfA==
+specifiers:
+  graphql-tag: ^2.10.4
