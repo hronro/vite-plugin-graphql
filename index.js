@@ -38,6 +38,7 @@ function unique(defs) {
 }
 
 const graphqlPlugin = {
+  name: 'graphql-plugin',
   transforms: [{
     test({path}) {
       return path.endsWith('.gql') || path.endsWith('.graphql');
